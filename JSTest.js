@@ -29,6 +29,7 @@ function totalnft(){
 mintmft("ashish","sonipat","natur",100);
 mintmft("rahul","rohtak","road",110);
 mintmft("dheeraj","karnal","car",120);
+mintnft("sachin","hisar","water",140);
 listnft();
 // Get the total number of NFTs by calling the totalnft function and print it
 totalnft();
